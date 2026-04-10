@@ -1,0 +1,7 @@
+venv/
+data/
+_pycache_/
+*.pyc
+models/*.keras
+logs/
+chest-xray-pneumonia.zip
